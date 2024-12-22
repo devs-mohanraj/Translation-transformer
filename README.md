@@ -43,6 +43,6 @@ https://github.com/moses-smt/mosesdecoder/tree/master/scripts/share/nonbreaking_
 
 # References 
 
-[Attention Is All You Need] ("https://arxiv.org/pdf/1706.03762")
+[Attention Is All You Need] (https://arxiv.org/pdf/1706.03762)
 
 This repository provides an overview and implementation details of the seminal paper "Attention Is All You Need" by Vaswani et al., which introduced the Transformer architecture — a breakthrough in deep learning for natural language processing and beyond.
